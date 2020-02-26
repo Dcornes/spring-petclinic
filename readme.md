@@ -1,4 +1,4 @@
-# Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/Dcornes/spring-petclinic/builds/654119773)](https://travis-ci.org/Dcornes/spring-petclinic/builds/654119773/)
+# Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/Dcornes/spring-petclinic/builds/655175772)](https://travis-ci.org/Dcornes/spring-petclinic/builds/655175772/)
 
 
 
