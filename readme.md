@@ -1,5 +1,5 @@
-## Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/Dcornes/spring-petclinic/builds/654119773)](https://travis-ci.org/Dcornes/spring-petclinic/builds/654119773/)
-# Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/Dcornes/spring-petclinic/builds/655173756)](https://travis-ci.org/Dcornes/spring-petclinic/builds/655173756/)
+# Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/Dcornes/spring-petclinic/builds/654119773)](https://travis-ci.org/Dcornes/spring-petclinic/builds/654119773/)
+
 
 
 Deploy this sample application to Pivotal Web Services:
